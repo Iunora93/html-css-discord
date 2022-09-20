@@ -146,6 +146,7 @@
     height: 600px;
     width: 125px;
     border: #23272a dashed 1px;
+    text-align: left;
   }
 
   .column-end {
@@ -156,7 +157,7 @@
     display: flex;
   }
 
-  ul {
+  .lista-header {
     list-style: none;
     display: flex;
     justify-content: space-between;
@@ -223,4 +224,10 @@
   .icons {
     color: #eeeeee;
     padding-right: 10px;
+  }
+
+  .lista-footer {
+    text-align: left;
+    list-style: none;
+
   }
