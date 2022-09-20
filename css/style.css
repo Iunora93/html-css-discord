@@ -143,7 +143,6 @@
   }
 
   .column {
-    background-color: #20b2aa;
     height: 600px;
     width: 125px;
     border: #23272a dashed 1px;
@@ -219,4 +218,9 @@
 
   .color-font {
     color: #eeeeee;
+  }
+
+  .icons {
+    color: #eeeeee;
+    padding-right: 10px;
   }
