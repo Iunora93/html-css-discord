@@ -124,9 +124,22 @@
   }
 
   .column-1 {
-    background-color: #f08080;
     height: 600px;
     width: 300px;
+    text-align: left;
+    padding-left: 20px;
+  }
+
+  .img-ita {
+    text-align: left;
+    width: 20px;
+    height: auto;
+  }
+
+  .titolo-footer {
+    color: #7289DA;
+    padding: 20px;
+    
   }
 
   .column {
@@ -137,7 +150,6 @@
   }
 
   .column-end {
-    background-color: #7fffd4;
     height: 80px;
     width: 800px;
     justify-content: space-between;
@@ -183,7 +195,7 @@
   }
 
   .ultimo-titolo{
-    
+
   }
   .ultima-img {
     width: 800px;
@@ -202,4 +214,9 @@
   .btn-finale {
     margin-top: 20px;
     background-color: #7289DA;
+    margin-bottom: 20px;
+  }
+
+  .color-font {
+    color: #eeeeee;
   }
